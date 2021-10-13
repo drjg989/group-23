@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "e6a35359-8259-4b90-9ef8-6b3bac20c3ad",
-		"name": "group 23",
+		"name": "group 23 HW_1",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
@@ -286,23 +286,6 @@
 					"port": "5005",
 					"path": [
 						"user_info_2"
-					],
-					"query": [
-						{
-							"key": "name",
-							"value": "",
-							"disabled": true
-						},
-						{
-							"key": "age",
-							"value": "",
-							"disabled": true
-						},
-						{
-							"key": "salary",
-							"value": "",
-							"disabled": true
-						}
 					]
 				}
 			},
