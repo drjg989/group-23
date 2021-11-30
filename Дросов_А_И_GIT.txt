@@ -1,9 +1,9 @@
 1. Создать файл “new.json”- touch new.json
- 2. Добавить файл под гит. -git add new.json
- 3. Закоммитить файл. - git commit -m “Фаил  new”
+ 2. Добавить файл под гит. -git add new.json (или просто . )
+ 3. Закоммитить файл. - git commit -m “Фаил New”
  4. Отправить файл на внешний GitHub репозиторий. - git push
  5. Создать файлы new2.json, new2.xml, new2.txt - touch new2.json new2.xml new2.txt
- 6. Добавить файлы под гит. Gir add .
+ 6. Добавить файлы под гит. Gir add . (или прописать имена файлов )
  7. Закоммитить файлы.  - git commit -m "Задание 10"
  8. Отправить файлы на внешний GitHub репозиторий. - git push
  9. Отредактировать содержание файла “new2.txt” - 
